@@ -1,7 +1,11 @@
 /*-- Stack.cpp-------------------------------------------------------------
 This file implements Stack member functions.
 --------------------------------------------------------------------------*/
-
+//Erik Ring-Walters
+//10/27/2016
+//CST 238 Lab 10
+//Reverse string stack exercise
+//ID: 002488407
 #include <iostream>
 using namespace std;
 
